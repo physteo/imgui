@@ -23,7 +23,9 @@ project "imgui"
 		"examples/imgui_impl_glfw.cpp",
 		"examples/imgui_impl_glfw.h",
 		"examples/imgui_impl_opengl3.cpp",
-		"examples/imgui_impl_opengl3.h"
+		"examples/imgui_impl_opengl3.h",
+		"misc/cpp/imgui_stdlib.cpp",
+		"misc/cpp/imgui_stdlib.h"
 	}
 
 	filter "system:windows"
